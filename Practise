@@ -5,17 +5,12 @@ cd(change directory)
 ll(long list of file or directories)
 ls(to view in a short list files and directories including hidden files)
 ll-a (to see
-git status
-
-
-
-
-
-
-
-
-
-git commit -m "message"
+git status (to see the status of the file)
+git commit -m "message" filename
 git add* (used to add all the files in staging or index)
 git add filename filename (to add two files at a time)
+git brach (to check wether main or not)
+git reset filename (change the file form staging to working directory or from commiting to working directory(redcolor) )
+git stage filename (to stage only file adding)
+GIT means- it is source code management
 
