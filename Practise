@@ -1,0 +1,21 @@
+
+
+git clone (is acommand to clone the remote repositary in local machine)
+cd(change directory)
+ll(long list of file or directories)
+ls(to view in a short list files and directories including hidden files)
+ll-a (to see
+git status
+
+
+
+
+
+
+
+
+
+git commit -m "message"
+git add* (used to add all the files in staging or index)
+git add filename filename (to add two files at a time)
+
